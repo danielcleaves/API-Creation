@@ -1,0 +1,9 @@
+{
+  "name": "Quoting",
+  "description": "Quoting Application",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.10.8",
+    "mongoose": "^4.0.1"
+  }
+}
